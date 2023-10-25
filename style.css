@@ -1,0 +1,62 @@
+#header {
+  text-align: center;
+  width: 100%;
+}
+#hrheader {
+  color: rgba(243, 226, 76, 0.404);
+  border-top: 5px;
+  margin-top: auto;
+}
+#heaterimg {
+  height: 70px;
+}
+#sottotitolo {
+  background-color: #FDFBF1;
+  color: rgb(55, 114, 55);
+  font-size: 1em;
+}
+#main p {
+  font-size: 1.5em;
+  text-align: center;
+  width: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 12px;
+  margin: 6px;
+}
+
+#centrale {
+  text-align: center;
+  width: 100%;
+}
+#fotofocaccia {
+  text-align: center;
+  width: 100%;
+}
+
+figcaption {
+  color: lightgrey;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#feat {
+  text-align: left;
+  color: red;
+  
+}
+
+#collegamentoesterno {
+  text-align: left;
+}
+
+#ricetta {
+  text-align: left;
+  width: 100%;
+}
+#finale {
+  text-align: left;
+  width: 100%;
+}
+.center {
+  margin: auto;
+  width: 50%;
+}
